@@ -1,5 +1,6 @@
 <?php
 /*CBTIS89
+P01Variables1
 Programa que imprime el dìa, sueldo y nombre
 Luna Roacho Osmar Farid
 3a Programaciòn Matutino
